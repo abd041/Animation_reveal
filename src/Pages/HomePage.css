@@ -1,0 +1,1129 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+.homepage-wrapper{
+    /* width: 100%; */
+    height: 900px;
+   background-image: url("../Resources/Images/HomePage_Bg.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  background-position: center; 
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size:cover ;
+  position: relative;
+}
+
+.home_vertical_bar{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+}
+
+.herosection{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.herosectionmargin{
+  margin-top: 148px;
+
+}
+.hero_section_wrapper{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+#hero-menu-btn{
+  background: #FFFFFF;
+
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #BD9A5F;
+padding: 19px 16px 12px 21px  ;
+border:none
+}
+#hero-menu-btn>img{
+  padding-left:19px;
+}
+
+#hero-reserve-bt{
+  background: #BD9A5F;
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding: 19px 16px 12px 21px  ;
+border:none
+}
+#hero-reserve-bt>img{
+  padding-left:16px;
+
+}
+.hero_btn_wrapper{
+position: absolute;
+top:63%;
+  right: -9%;
+  transform: rotate(-90deg);
+  
+
+  
+}
+
+
+
+/* ==========================================Meharba Top Section started==================================== */
+
+
+.merhaba_top_section{
+ height: 61px;
+ width: auto;
+ background: #EBE9E2;
+
+}
+
+.merhaba_top_section_wrapper{
+  width: 100%;
+ position: relative;
+ top :0;
+ left:0;
+}
+.merhaba_section_logo{
+  position: absolute;
+  top: 0;
+  background: #BD9A5F;
+border-radius: 0px 0px 68px;
+width: 136px;
+height: 196px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+p{margin-bottom: 0px ;}
+
+.Vertical_long_bar{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+
+
+#merhaba_section_Spa{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+/* text-align: center; */
+
+color: #BD9A5F;
+
+ margin-top: 68px;
+}
+#merhaba_section_sanati{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+
+color: #BD9A5F;
+margin-top: 290px;
+}
+#merhaba_section_Cabir{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #80837D;
+}
+
+#merhaba_section_sihri{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #80837D;
+
+}
+.marhaba_bg{
+  background-image: url("../Resources/Images/marhaba_bg.png");
+background-color: #BD9A5F ;
+height: 657px;
+margin-top: 83px;
+margin-bottom: 72px;
+ position: relative;
+
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+/*  */
+
+.Marhaba_heading{
+  width: 100%;
+  height: 176px;
+  position: absolute;
+  top: 35%;
+  left: 0;
+  background: #EBE9E2;
+}
+
+
+#marhaba_img{
+  margin-top: 16px;
+}
+
+.Marhaba_heading_wrapper{width: 100%; position: absolute; top: 35%; right: 0;
+   z-index: 999; } .Marhaba_heading_wrapper>h4{ font-family: Playfair Display; font-style: normal; font-weight: normal; font-size: 160px; text-align: center; z-index: 110 !important; color: #FFFFFF; }
+
+
+
+
+
+/* ======================================spa sction css=================================== */
+
+
+
+
+.spa_bg{
+   background-image: url("../Resources/Images/spa_bg.png");
+background-color: #BD9A5F ;
+height: 657px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  position: relative;
+  top: -15%;
+}
+
+#spa_Lotus{
+  
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+color: #BD9A5F;
+padding-bottom: 18px;
+}
+.spa_text_wrapper{
+position: relative;
+  padding-left: 78px;
+  background: #EBE9E2;
+}
+.Vertical_long_second{
+  position: absolute;
+  top: -14%;
+  right: 18%;
+}
+#spa_Cazibeyi{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #80837D;
+padding-bottom: 51px;
+}
+#spa_REZERVASYON{
+  background: #BD9A5F;
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding:11px 52px 11px 52px;
+border: none;
+}
+
+#spa_GÖR{
+    background:#FFFFFF ;
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #BD9A5F;
+padding:11px 52px 11px 52px;
+border: none;
+}
+
+.spa_text_wrapper{
+  padding-top: 186px; ;
+}
+
+.spa_wraper{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.spa_text_top{
+  position: absolute;
+  top: -5%;
+  left: 0;
+  z-index: 999;
+}
+
+.spa_text_top>h4{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 160px;
+line-height: 213px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.Odalar_main_wrapper{
+  margin-top: -70px;
+}
+.Odalar_main_wrapper>h5{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 99px;
+line-height: 132px;
+/* identical to box height */
+
+text-align: center;
+
+color: #015D4F;
+}
+.Odalar_konforlu{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+color: #80837D;
+ margin-top: -30px;
+}
+
+
+.odlar_bg_sction{
+  height: 657px;
+    background-image: url("../Resources/Images/odlar_bg.png");
+background-color: #BD9A5F ;
+height: 657px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  position: relative;
+  
+}
+
+.odlar_KEŞFEDİN>h6{
+font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+letter-spacing: 0.095em;
+
+color: #BD9A5F;
+}
+.odlar_Deluxe>h5{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+
+color: #FFFFFF;
+}
+
+.odla_Cazibeyi>p{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFFFF;
+}
+
+#odla_REZERVASYON{
+  background: #BD9A5F;
+    font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding:11px 52px 11px 52px;
+border: none;
+}
+
+.odlar_div_wrapper{
+  background: #015D4F;
+  padding-top: 58px;
+  padding-left: 66px;
+  position: relative;
+}
+.Vertical_long_third{
+position: absolute;
+top: -40%;
+right: 10%;
+z-index:9999;
+}
+.odla_Cazibeyi{
+  padding-bottom: 50px;
+}
+.odlar_bedromm_img>img{
+  margin-top: -140px;
+  z-index: 9999;
+ margin-bottom: 114px;
+}
+
+/* ==========================================Konaklamaları=================================== */
+
+.Konaklamaları{
+      background-image: url("../Resources/Images/Konaklamaları.png");
+background-color: #BD9A5F ;
+height: 415px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  position: relative;
+  padding: 0 113px 0 113px;
+
+}
+
+.Konaklamaları_text_heading>h4{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.Vertical_long_four{
+  position: absolute;
+  top: 0;
+  right: 7%;
+}
+.Konaklamaları_text_para>p{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+}
+#DETALARI_Konaklamaları{
+  background: #BD9A5F;
+   font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding:11px 52px 11px 52px;
+border: none;
+}
+.Konaklamaları_text_heading{
+  margin-top: 168px;
+
+}
+
+.Konaklamaları_text_para{
+  margin-bottom: 29px;
+}
+
+/* 
+======================================Yemek Deneyimi==================================== */
+
+.Yemek_wrapper{
+  padding-top: 164px;
+
+  padding-left: 70px;
+  position: relative;
+  left:0
+}
+
+.Yemek_wrapper_img{
+       background-image: url("../Resources/Images/Yemek_galsses.png");
+background-color: #BD9A5F ;
+height: 377px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  position: relative; 
+ margin-left: 71px;
+}
+
+.Yemek_Deneyimi_heading{
+  position: absolute;
+  top: 30%;
+  left: 0;
+  padding-left: 100px;
+  z-index: 9999;
+}
+.Yemek_Deneyimi_heading>h4{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 192px;
+/* identical to box height */
+
+text-align: center;
+
+color: #BD9A5F;
+margin-bottom: 0px;
+}
+
+.Yemek_Deneyimi_heading>p{font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 38px;
+
+color: #FFFFFF;
+text-align: center;
+padding-left: 150px;
+}
+
+
+.Restoran_text>h3{
+  
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+
+color: #BD9A5F;
+}
+.Akşama_Para > p{
+font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+color: #80837D;
+}
+
+#Restoran_btn{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+background: #BD9A5F;
+padding:11px 52px 11px 52px;
+border: none;
+margin-top: 16px;
+margin-bottom: 305px;
+}
+
+.eating_women{
+  position: absolute;
+  top: 200%;
+  right: 6%;
+  z-index: 9999;
+}
+
+.night_room_wrapper{
+  background: url("../Resources/Images/night_room.png");
+  background-color: #BD9A5F ;
+height: 487px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  position: relative;
+}
+
+.Vertical_long_five{
+  position: absolute;
+  top: -3%;
+  left: 70%;
+}
+
+.vertical_bar_six{
+   position: absolute;
+  top: 90%;
+  left: 50%;
+  z-index: 99999;
+  
+}
+#Dinlenme_heading{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+padding-top: 155px;
+}
+
+#Dinlenmetext_para{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 47px;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* 
+====================================Etkinlikler_section=========================== */
+.Etkinlikler_section>h3{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 99px;
+line-height: 132px;
+/* identical to box height */
+
+text-align: center;
+
+color: #015D4F;
+margin-bottom: 0px;
+position: relative;
+}
+
+.Vertical_long_eight{
+   position: absolute;
+  top: -87%;
+  left: 10%;
+  z-index: 99999;
+}
+
+.Vertical_long_seven{
+  position: absolute;
+  top: 0;
+  right: 20%;
+  z-index: 99999;
+}
+
+
+
+.tkinlikler_section_para>p{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+color: #015D4F;
+padding-left: 18px;
+
+}
+.vertical_bar_nine{  position: absolute;
+  top: 70%;
+  left: 50%;
+  z-index: 99999;}
+#Left_arrow__{
+  margin-right: 23px;
+}
+
+.Treking_heading_wrapper{
+  position: relative;
+  top: 0;
+  right: 0;
+}
+
+.Horizontal_Line{
+  position: absolute;
+  top: 30%;
+  left: 27%;
+  z-index: -10;
+}
+
+.Horizl_Line{
+   position: absolute;
+  top: 70.8%;
+  left: 27%;
+  z-index: -10;
+}
+.V{
+  position: absolute;
+  top: 31.3%;
+  left: 27%;
+
+ 
+}
+.vet{
+    position: absolute;
+  top: 30%;
+  right: 7%;
+  z-index: -10;
+}
+.tr_1{
+   position: absolute;
+  top: 17%;
+  right: 0;
+  background: white;
+z-index: 8888;
+  padding-left: 88px;
+  padding-bottom: 28px;
+  padding-top: 69px;
+}
+
+.tr_1>h3{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+
+color: #BD9A5F;
+width: 100px;
+}
+
+
+
+
+.tr_2{
+  
+   position: absolute;
+  top: 58%;
+  right: 0;
+  background: white;
+  z-index: 9999;
+    padding-left: 88px;
+    padding-bottom: 40px;
+    padding-right: 122px;
+}
+
+.tr_3{
+   position: absolute;
+  top: 80%;
+  right: 0;
+  background: white;
+  z-index: 9999;
+  padding-bottom: 100px;
+  padding-left: 88px;
+}
+
+
+#DETALAR___GÖR{  background: #BD9A5F;
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding:11px 52px 11px 52px;
+border: none;}
+
+.tr_2>p{font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #80837D;}
+
+/* .Akşama__wrapper{
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+/* ============================================================== */
+.Anlarınızı>h3{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+/* line-height: 48px; */
+/* identical to box height */
+color: #015D4F;
+}
+
+.Anlarınızı>p{font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+/* line-height: 19px; */
+
+color: #80837D;}
+
+.cabirdeluxe>h3{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #BD9A5F;
+}
+/* 
+===================================Alma _ Brown============================== */
+
+.alma_brown_img{
+position: absolute;
+top: 14%;
+right: 0;
+}
+
+.alma_house_img{
+  position: absolute;
+  top: 17%;
+  right: 2%;
+}
+
+.alma_green_img{
+  position: absolute;
+  top: 79%;
+  right: -9%;
+}
+
+.alma_chair{
+   position: absolute;
+  top: 56%;
+  right: -5%;
+}
+.alma_bed{
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+#BİZİ_alma{
+  background: #BD9A5F;
+  padding: 10px 47px 10px 45px;
+  border: none;
+
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;  position: relative;
+  top: 42px;
+  left: 16px;
+}
+
+#BİZİ_alma__{
+
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding: 10px 47px 10px 45px;
+  border: none;
+  background: #015D4F;
+  position: relative;
+  top: 42px;
+  left: 24px;
+}
+
+.alma_beach{
+  position: absolute;
+  top:60%;
+  left: 25%;
+z-index: 99999;
+}
+
+.reserv_bgg{
+    background-image: url("../Resources/Images/reserv__bg.png");
+background-color: #BD9A5F ;
+height: 487px;
+margin-top: 83px;
+margin-bottom: 72px;
+ position: relative;
+
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.Rezervasyon_heading>h4{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+
+color: #FFFFFF;
+}
+
+.Rezervasyon_heading>p{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 47px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.Rezervasyon_heading>button{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+background: #BD9A5F;
+padding: 11px 52px 11px 52px;
+border: none;
+}
+
+.last_section_heading>h4{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #BD9A5F;
+}
+
+
+.last_section_heading>h5{
+  
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+
+color: #BD9A5F;
+}
+
+.last_section_heading>button{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+padding: 11px 52px 11px 52px ;
+border: none;
+background: #BD9A5F;
+}
+
+.last_section_heading>h6{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #BD9A5F;
+}
+.last_section_heading>p{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #80837D;
+}
+
+
+.call_>li{
+  list-style-type: none;
+  padding-top:16px ;
+}
+.call_>li>img{
+ padding-right: 10px;
+  padding-left:12px ;
+}
+
+
+.Yeni_h4>h4{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 33px;
+
+color: #015D4F;
+padding-top:16px ;
+
+}
+
+#last_sec_id{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.15em;
+border: none;
+color: #FFFFFF;
+/* padding: 29px 95px 24px 100px; */
+padding: 24px 55px ;
+background: #015D4F;
+}
+
+
+#İletişim{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 203.1%;
+/* or 32px */
+
+
+color: #BD9A5F;
+}
+
+
+.Detayları_list>li{
+  list-style-type:none;
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 203.1%;
+/* or 30px */
+
+text-align: left;
+color: #646464;
+}
+
+
+._Fotter_>h4{
+  font-family: Space Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 203.1%;
+color: #A3A3A3;
+}
+
+
+
+@media only screen and (max-width: 768px) {.herosection{
+  padding: 8px;
+  
+}
+.hero_btn_wrapper{
+position: relative;
+  transform: rotate(0deg);
+  top:0%;
+  right: 0%;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.Odalar_main_wrapper{
+  margin-top: 0px;
+}
+.Odalar_konforlu{margin-top: 0;}
+.odlar_bedromm_img>img{
+  margin-top: 0px;
+}
+
+
+
+.Konaklamaları{
+  padding: 0 16px 0 16px;
+height: 480px;   
+}
+
+.Konaklamaları_text_heading{
+  margin-top: 16px;
+
+}
+
+}
